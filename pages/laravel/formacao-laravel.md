@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: "../../images/laravel.jpg"
+image: "/images/laravel.jpg"
 ---
 
 # Formação em Laravel

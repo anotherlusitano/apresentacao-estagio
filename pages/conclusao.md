@@ -1,6 +1,6 @@
 ---
 layout: intro-image
-image: "../images/concluindo_objetivamente.jpg"
+image: "/images/concluindo_objetivamente.jpg"
 ---
 
 # Considerações finais

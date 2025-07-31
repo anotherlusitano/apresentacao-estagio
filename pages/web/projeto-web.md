@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: "../../images/sabonetes.jpg"
+image: "/images/sabonetes.jpg"
 ---
 
 # Website da Mãe Sabonetes

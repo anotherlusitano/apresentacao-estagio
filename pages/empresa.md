@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: './images/mindshaker.png'
+image: '/images/mindshaker.png'
 ---
 
 # Mindshaker

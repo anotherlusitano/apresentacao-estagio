@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: "../../images/curso_web.jpg"
+image: "/images/curso_web.jpg"
 ---
 
 # Formação em Desenvolvimento Web

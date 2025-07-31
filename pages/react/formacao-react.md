@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: '../../images/react.jpg'
+image: '/images/react.jpg'
 ---
 
 # Formação em React

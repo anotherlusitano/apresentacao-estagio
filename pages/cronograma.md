@@ -2,4 +2,4 @@
 layout: center
 ---
 
-<img src="../images/cronograma.png">
+<img src="/images/cronograma.png">

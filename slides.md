@@ -1,7 +1,7 @@
 ---
 theme: apple-basic
 layout: intro-image
-image: "./images/capa.jpg"
+image: "/images/capa.jpg"
 
 drawings:
   persist: false

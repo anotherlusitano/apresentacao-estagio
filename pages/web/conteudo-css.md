@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: "../../images/css_exemplo.jpg"
+image: "/images/css_exemplo.jpg"
 ---
 
 # Conteúdo de CSS

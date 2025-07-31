@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: '../../images/reactprops.jpg'
+image: '/images/reactprops.jpg'
 ---
 
 # Projeto de React

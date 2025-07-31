@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: "../images/expectativas.jpg"
+image: "/images/expectativas.jpg"
 ---
 
 # Objetivos pretendidos
